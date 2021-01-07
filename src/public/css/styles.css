@@ -1,0 +1,52 @@
+body {
+    background-image: url('https://elblogdemanu.com/wordpress/wp-content/uploads/2008/09/wii_virtual_console_awesome.jpg');
+font-family: 'Oswald', sans-serif;
+
+    overflow: hidden;
+}
+.card-body{
+  background-color: #fd6363;
+  height: 50vh;
+}
+
+.index {
+    width: 100vw;
+    height: 100vh;
+}
+
+.navbar {
+    background: #FD2626 !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+
+.masthead {
+    color: white;
+    min-height: 30rem;
+    width: 100%;
+    height: 100%;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-image: url('https://fondosmil.com/fondo/3551.jpg');
+    background-image: url('https://fondosmil.com/fondo/3551.jpg');
+}
+
+.masthead h1 {
+    font-size: 4rem;
+    margin: 0;
+    padding: 0;
+    
+    
+  }
+  
+  @media (min-width: 992px) {
+    .masthead {
+      height: 100vh;
+    }
+    .masthead h1 {
+      font-size: 5.5rem;
+    }
+  }
